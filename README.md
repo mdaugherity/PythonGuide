@@ -17,7 +17,16 @@ Quick introductions to things
 Look in the sections below for quick, easy to use examples of how to do the things you want to do
 
 ## Math
-Numerical Methods
+Fitting
+* Fit a straight line to data with polyfit
+* Fit a general equation to data with scipy.optimize.curve_fit
+
+Calculus
+* Find (numerical) derivatives
+* Find (numerical) integrals
+
+Differential Equations
+* Solve an ODE
 
 # ACU Courses
 Dedicated space for specific classes.  Links can go to a folder in this repo, another markdown page, or a different repo
