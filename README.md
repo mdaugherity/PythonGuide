@@ -14,8 +14,17 @@ PLACEHOLDER for starting lessons (maybe with youtube videos?).  These should be 
 Quick introductions to things
 
 # How Do I?
+Look in the sections below for quick, easy to use examples of how to do the things you want to do
 
-# Math
+## Math
 Numerical Methods
+
+# ACU Courses
+Dedicated space for specific classes.  Links can go to a folder in this repo, another markdown page, or a different repo
+
+* ENGR 117 - Computational Tools for Engineering and Physics 
+* ENGR 281 - Engineering Thermodynamics
+* PHYS 351 - Applied Numerical Methods
+* PHYS 453 - Machine Learning
 
 
