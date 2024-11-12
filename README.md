@@ -17,16 +17,24 @@ Quick introductions to things
 Look in the sections below for quick, easy to use examples of how to do the things you want to do
 
 ## Math
-Fitting
+Solving Equations Numerically
+* Find the value of a variable with root finding 
+* Solve a linear system
+* Solve a non-linear system  
+
+Fitting and Interpolation
 * Fit a straight line to data with polyfit
-* Fit a general equation to data with scipy.optimize.curve_fit
+* Fit a general equation to data with *scipy.optimize.curve_fit*
+* Interpolating values between data points with *numpy.interp*
+* Advanced fitting with global optimizers
 
 Calculus
 * Find (numerical) derivatives
-* Find (numerical) integrals
+* Find integral of data points
+* Find integral of a function with *scipy.integrate.quad* 
 
 Differential Equations
-* Solve an ODE
+* Solve an ODE with *scipy.integrate.solve_ivp* 
 
 # ACU Courses
 Dedicated space for specific classes.  Links can go to a folder in this repo, another markdown page, or a different repo
